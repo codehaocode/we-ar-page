@@ -1,6 +1,6 @@
 # [Start a new AR experience](https://codehaocode.github.io/we-ar-page/)
 
-[WE/AR Page](https://codehaocode.github.io/we-ar-page/) is a landing page for [WE/AR APP](https://github.com/codehaocode/we-ar-app) created by WE/AR team.
+[https://we-ar.online](https://we-ar.online) is a landing page for an AR guided indoor navigation APP [WE/AR APP](https://github.com/codehaocode/we-ar-app).
 
 ## Preview
 
