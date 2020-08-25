@@ -1,4 +1,4 @@
-# [Start a new AR experience](https://codehaocode.github.io/we-ar-page/)
+# [Start a new AR experience](https://we-ar.online)
 
 [https://we-ar.online](https://we-ar.online) is a landing page for an AR guided indoor navigation APP [WE/AR APP](https://github.com/codehaocode/we-ar-app).
 
